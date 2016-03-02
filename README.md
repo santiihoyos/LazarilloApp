@@ -3,11 +3,8 @@ Aplicación para personas ciegas o alguna minusvalía que les traza una ruta des
 
 
 Interfaz para no ciegos 100%:
-![Seleccion de interfaz](http://i.imgur.com/szI4M3K.png)
-![menu ir interfaz no ciegos](http://i.imgur.com/5WQcF4L.png)
-![favoritos en no ciegos](http://i.imgur.com/ep5B3OB.png)
-![ajustes en no ciegos](http://i.imgur.com/ADC0jkt.png)
-![ajustes en alto contraste interfaz no ciegos](http://i.imgur.com/xdH7dGM.png)
+![Seleccion de interfaz](http://i.imgur.com/jDoVyJk.jpg)
+
 
 
 Ejemplos de como la aplicación evita las incidencias(iconos morados trazando una ruta entre el origen dado y el destino
