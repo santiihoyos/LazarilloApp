@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/santiago/BigBangCodeProjects/LazarilloApp/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/santiago/BigBangCodeProjects/LazarilloApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/santiago/Descargas/Telegram Desktop/LazarilloApp/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/santiago/Descargas/Telegram Desktop/LazarilloApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    }
+]

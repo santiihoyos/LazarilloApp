@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/santiago/Descargas/Telegram Desktop/LazarilloApp/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/santiago/Descargas/Telegram Desktop/LazarilloApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/santiago/BigBangCodeProjects/LazarilloApp/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/santiago/BigBangCodeProjects/LazarilloApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
