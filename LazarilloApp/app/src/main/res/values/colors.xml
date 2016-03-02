@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        &lt;!&ndash; Colores tema normal &ndash;&gt;
+        <color name="colorPrimary">#3F51B5</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="color_title_toolbar">#FFFFFF</color>
+        <color name="color_tabs_Select">#D9D9D9</color>
+        <color name="color_tabs_noSelect">#FFF</color>
+
+        &lt;!&ndash; Colores para tema de alto contraste &ndash;&gt;
+        <color name="colorPrimaryAC">#FF34</color>
+        <color name="colorPrimaryDarkAC">#FF23</color>
+        <color name="colorAccentAC">#000</color>
+        <color name="color_title_toolbarAC">#000</color>
+        <color name="color_tabs_noSelectAC">#000</color>
+        <color name="color_tabs_SelectAC">#000</color>
+
+    -->
+    <!-- NORMAL -->
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#8e24aa</color>
+    <color name="colorAccent">#E64A19</color>
+    <color name="windowBackground">#FFC107</color>
+    <color name="textColorPrimary">#000000</color>
+
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#536DFE</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="color_title_toolbar">#FFFFFF</color>
+
+    <!-- ALTO CONTRASTE -->
+    <color name="colorPrimaryHighContrast">#FF34</color>
+    <color name="colorPrimaryDarkHighContrast">#6745</color>
+    <color name="colorAccentHighContrast">#6778</color>
+    <color name="dividerHighContrast">#B6B6B6</color>
+
+    <color name="accent_material_light">#e040fb</color>
+    <color name="primary_dark_material_light">#7b1fa2</color>
+    <color name="black">#8e24aa</color>
+    <color name="accent_material_dark">#000000</color>
+    <color name="primary_material_dark">#212121</color>
+    <color name="primary_dark_material_dark">#000000</color>
+    <color name="secondary_text_default_material_dark">#ffffff</color>
+    <color name="foreground_material_dark">#ffffff</color>
+    <color name="primary_material_light">#9c27b0</color>
+    <color name="background_material_dark">#111111</color>
+    <color name="primary_text_default_material_dark">#000000</color>
+
+    <color name="cardsAltoContraste">#FF212121</color>
+
+</resources>
