@@ -1,9 +1,0 @@
-<resources>
-
-    <style name="Normal" parent="Theme.AppCompat.Light.NoActionBar"><!-- Customize your theme here. -->
-
-    </style>
-
-    <style name="AltoContraste" parent="android:Theme.DeviceDefault" />
-
-</resources>
