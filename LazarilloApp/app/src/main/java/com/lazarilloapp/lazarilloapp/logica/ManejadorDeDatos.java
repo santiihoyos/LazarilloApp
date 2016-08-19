@@ -25,7 +25,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 /**
- * Siguiendo el patrón Singleton(no se que tan bien habrá quedado) se implementa una clase de
+ * Siguiendo el patrón Singleton se implementa una clase de
  * instancia única para escribir y leer el arraylist de favoritos que esta serializado en memoría.
  * Created by santiago on 20/01/16.
  */

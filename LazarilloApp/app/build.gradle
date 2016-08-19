@@ -15,7 +15,21 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            debuggable false
+            jniDebuggable false
+            proguardFile '/home/santiago/BigBangCodeProjects/app-club-pok-mon-go/ClubPokemonGo/app/proguard-rules.pro'
         }
+        debug {
+            jniDebuggable true
+            renderscriptDebuggable true
+            minifyEnabled true
+            pseudoLocalesEnabled true
+            proguardFile '/home/santiago/BigBangCodeProjects/app-club-pok-mon-go/ClubPokemonGo/app/proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
     }
 }
 
