@@ -2,7 +2,7 @@
 Aplicación para personas ciegas o alguna minusvalía que les traza una ruta desde un origen a su destino evitando incidencias del camino.
 
 
-Interfaz para no ciegos 100%:
+Interfaz para no ciegos 50%:
 ![Seleccion de interfaz](http://i.imgur.com/jDoVyJk.jpg)
 
 
